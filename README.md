@@ -99,14 +99,4 @@ jobs:
 
 ---
 
-## Checklist before publishing
 
-* [ ] Create repo named `USERNAME`.
-* [ ] Replace `USERNAME` placeholders in image URLs.
-* [ ] Add your public writeups and project links.
-* [ ] If using `lowlighter/metrics`, follow its repo README to wire up the Action.
-* [ ] Personalize the badges, themes, and the "About me" section.
-
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
