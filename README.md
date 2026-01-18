@@ -16,8 +16,6 @@
 
 ---
 
-### <div align="center">  `w01f@kali:~$ ./whoami` </div>
-
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
     <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
@@ -29,6 +27,10 @@
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   </a>
 </div>
+
+---
+
+### <div>  `w01f@kali:~$ ./whoami` </div>
 
 <br />
 
