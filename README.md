@@ -31,7 +31,6 @@
 ---
 
 ### <div>  `w01f@kali:~$ ./whoami` </div>
-
 <br />
 
 ```bash
