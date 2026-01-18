@@ -118,7 +118,7 @@ class Profile:
 
 ---
 
-## My Contribution Graph
+## My Status Graph
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph-dark.svg">
