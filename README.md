@@ -1,19 +1,18 @@
 # Hi — I’m `w01f` 👋
 
 > Aspiring pentester | Preparing for **OSCP** | Offensive security & red-team practice
-
 <div >
 
   <a href="https://w01f.darklead.org">
-    <img src="https://img.shields.io/badge/Portfolio-w01f.darklead.org-2ea44f?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-w01f.darklead.org-1E8449?style=flat-square&logo=firefox&logoColor=white&labelColor=101010" height="28" alt="Portfolio" />
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/OSCP-In%20Progress-orange?style=flat-square&logo=kalilinux&logoColor=white" alt="OSCP Goal" />
+    <img src="https://img.shields.io/badge/OSCP-In%20Progress-D35400?style=flat-square&logo=kalilinux&logoColor=white&labelColor=101010" height="28" alt="OSCP Goal" />
   </a>
 
   <a href="https://linkedin.com/in/mrw01f">
-    <img src="https://img.shields.io/badge/LinkedIn-MrW01f-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-MrW01f-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010" height="28" alt="LinkedIn" />
   </a>
 
 </div>
@@ -30,13 +29,15 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
-    <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010" alt="TryHackMe">
   </a>
+
   <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/HackTheBox-Operative-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+    <img src="https://img.shields.io/badge/HackTheBox-Operative-green?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010" alt="HackTheBox">
   </a>
+
   <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010" alt="Kali Linux">
   </a>
 </div>
 
