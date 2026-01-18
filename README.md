@@ -16,32 +16,11 @@
 
 ---
 
-<div align="center">
-  <pre>
-  <code style="color: #00ff00;">
-   PLEASE INSERT COIN . . .
-   
-   SCORE: 1337      HIGH SCORE: 9999      LEVEL: ROOT
-   
-   ┌───────────────────────────────────────────────────────┐
-   │  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  ●  │
-   │  ●   ᗧ • • • [THM] ◄─(TryHackMe Logo Target)      ●  │
-   │  ●                                                ●  │
-   │  ●   GHOSTS: [ Bug ] [ Error ] [ 404 ] [ Lag ]    ●  │
-   └───────────────────────────────────────────────────────┘
-   
-   >> SYSTEM READY.
-   >> WELCOME USER: w01f
-  </code>
-  </pre>
-</div>
-
----
-
 ### <div align="center"> ⚡ `w01f@kali:~$ ./whoami` </div>
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3132254" style='border:none;'></iframe>
     <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="https://www.hackthebox.com/">
@@ -59,9 +38,9 @@
 # ------------------
 User        : w01f
 Machine     : mad (Laptop)
-Role        : Offensive Security Student / Developer
-Target      : OSCP Certification & International Ops
-Current_Loc : 127.0.0.1 (Chennai, IN)
+Role        : Offensive Security Student / Pentester
+Target      : OSCP Certification & VAPT
+Current_Loc : IN
 
 ```
 
@@ -69,14 +48,15 @@ Current_Loc : 127.0.0.1 (Chennai, IN)
 class Profile:
     def __init__(self):
         self.username = "w01f"
-        self.languages = ["Python", "Flask", "Bash"]
-        self.tools = ["Burp Suite", "Metasploit", "Fortinet", "Wireshark"]
+        self.languages = ["Python", "Bash"]
+        self.tools = ["***"]
         
     def current_research(self):
         return [
-            "AI-Enhanced Memory Forensics",
-            "IoT Intrusion Detection (Autoencoders)",
-            "Queuing Theory in Mathematics"
+            "OSCP",
+            "Pentester",
+            "Malware Analysis",
+            "Memory Forensics"
         ]
 
     def status(self):
@@ -90,8 +70,8 @@ class Profile:
 
 | Protocol | Description | Status |
 | --- | --- | --- |
-| **Project_QuantifiedSelf** | A personal tracking app built with Flask. | `DEPLOYED` |
-| **HMS_Core** | Hospital Management System with secure login handling. | `DEBUGGED` |
+| **Pentester** | OSCP learner. | `IN_PROGRESS` |
+| **Mal Analysis** | Learning mal learning modules. | `IN_PROGRESS` |
 | **Forensics_AI** | Researching fileless malware detection using AI. | `IN_PROGRESS` |
 
 ---
@@ -104,44 +84,4 @@ class Profile:
 </a>
 </div>
 
-```
-
-### Pro Tip: The "Snake" Animation
-
-If you want the **animated** game that eats your contribution squares (which looks very similar to Pac-Man), you need to set up a **GitHub Action**.
-
-1.  In your repository, create a folder structure: `.github/workflows/snake.yml`
-2.  Paste this code inside `snake.yml`:
-
-<!-- end list -->
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          # github user name to read the contribution graph from (**Required**)
-          github_user_name: ${{ github.repository_owner }}
-          
-          # list of files to generate.
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-```
+---
