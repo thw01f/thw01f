@@ -50,7 +50,7 @@ Logs         = "Check /notes directory"
 ---
 
 <div align="center">
-  <a href="https://tryhackme.com/p/w01f">
+  <a href="https://tryhackme.com/p/MrW01f">
     <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010" alt="TryHackMe">
   </a>
 
