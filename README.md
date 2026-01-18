@@ -2,10 +2,22 @@
 
 > Aspiring pentester | Preparing for **OSCP** | Offensive security & red-team practice
 
-[![Website](https://img.shields.io/badge/portfolio-online-informational)](#)
-[![OSCP Goal](https://img.shields.io/badge/OSCP-In%20Progress-yellow)](#)
+<div >
 
----
+  <a href="https://w01f.darklead.org">
+    <img src="https://img.shields.io/badge/Portfolio-w01f.darklead.org-2ea44f?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/OSCP-In%20Progress-orange?style=flat-square&logo=kalilinux&logoColor=white" alt="OSCP Goal" />
+  </a>
+
+  <a href="https://linkedin.com/in/mrw01f">
+    <img src="https://img.shields.io/badge/LinkedIn-MrW01f-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
 
 ## About me
 
@@ -28,11 +40,11 @@
   </a>
 </div>
 
----
+
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrW01f.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrW01f.png" alt="THM Badge" width="400" />
   </a>
 </div>
 
