@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.svg" width="100%" alt="w01f Banner" />
+</div>
+
 # Hi — I’m `w01f` 👋
 
 > Aspiring pentester | Preparing for **OSCP** | Offensive security & red-team practice
@@ -86,7 +90,7 @@ class Profile:
 
 
 
-### <div>  Mission Log </div>
+## <div>  Mission Log </div>
 
 | Protocol | Description | Status |
 | --- | --- | --- |
@@ -105,3 +109,4 @@ class Profile:
 </picture>
 
 ---
+
