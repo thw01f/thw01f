@@ -32,7 +32,6 @@
 
 ### <div>  `w01f@kali:~$ ./whoami` </div>
 <br />
-
 ```bash
 # SYSTEM DIAGNOSTICS 
 # ------------------
@@ -66,13 +65,13 @@ class Profile:
 
 ---
 
-### <div align="center"> 📡 Mission Log (Projects) 
+### <div>  Mission Log (Projects) </div>
 
 | Protocol | Description | Status |
 | --- | --- | --- |
 | **Pentester** | OSCP learner. | `IN_PROGRESS` |
 | **Mal Analysis** | Learning mal learning modules. | `IN_PROGRESS` |
 | **Forensics_AI** | Researching fileless malware detection using AI. | `IN_PROGRESS` |
-</div>
+
 ---
 
