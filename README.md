@@ -16,11 +16,10 @@
 
 ---
 
-### <div align="center"> ⚡ `w01f@kali:~$ ./whoami` </div>
+### <div align="center">  `w01f@kali:~$ ./whoami` </div>
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3132254" style='border:none;'></iframe>
     <img src="https://img.shields.io/badge/TryHackMe-Level%20UP-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="https://www.hackthebox.com/">
@@ -66,22 +65,13 @@ class Profile:
 
 ---
 
-### <div align="center"> 📡 Mission Log (Projects) </div>
+### <div align="center"> 📡 Mission Log (Projects) 
 
 | Protocol | Description | Status |
 | --- | --- | --- |
 | **Pentester** | OSCP learner. | `IN_PROGRESS` |
 | **Mal Analysis** | Learning mal learning modules. | `IN_PROGRESS` |
 | **Forensics_AI** | Researching fileless malware detection using AI. | `IN_PROGRESS` |
-
----
-
-<div align="center">
-<p><i>"There is no patch for human stupidity."</i></p>
-
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mrw01f">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
 </div>
-
 ---
+
