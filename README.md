@@ -30,6 +30,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://tryhackme.com/p/w01f">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/w01f.png" alt="TryHackMe Badge" />
+  </a>
+</div>
+
+---
+
 ### <div>  `w01f@kali:~$ ./whoami` </div>
 <br />
 
