@@ -124,5 +124,5 @@ class Profile:
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/w01f/github-stats-terminal-style/master/github_stats.svg" alt="Terminal Stats" />
+  <img src="https://raw.githubusercontent.com/thw01f/github-stats-terminal-style/master/github_stats.svg" alt="Terminal Stats" />
 </div>
