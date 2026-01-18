@@ -38,7 +38,7 @@
 
 ---
 
-### <div>  `w01f@kali:~$ ./whoami` </div>
+### <div>  `w01f@mad:~$ ./whoami` </div>
 <br />
 
 ```bash
@@ -74,7 +74,7 @@ class Profile:
 
 ---
 
-### <div>  Mission Log (Projects) </div>
+### <div>  Mission Log </div>
 
 | Protocol | Description | Status |
 | --- | --- | --- |
@@ -84,8 +84,12 @@ class Profile:
 
 ---
 
+### My Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
-  <img alt=" Contribution Graph" src="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
 </picture>
+
+---
