@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/w01f.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrW01f.png" alt="Your Image Badge" />
   </a>
 </div>
 
