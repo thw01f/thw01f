@@ -21,12 +21,26 @@
 
 </div>
 
-## About me
+## 💀 `cat /etc/About_me.conf`
 
-* 🎯 Goal: Become a professional penetration tester and complete OSCP.
-* 🛠️ Current focus: web app pentesting, networks, privilege escalation, and exploit development.
-* 📚 Learning plan: PWK labs, HTB (Active), VulnHub, writeups, and daily CTF practice.
-* 💬 I blog about writeups and pentest notes in the `notes/` folder of this repo.
+```ini
+[MISSION_OBJECTIVE]
+Target       = "Professional Penetration Tester"
+Certification= "OSCP (Offensive Security Certified Professional)"
+Status       = "Escalating Privileges..."
+
+[ATTACK_VECTORS]
+Focus_01     = "Penetration Testing"
+Focus_02     = "Privilege Escalation (Linux/Windows)"
+Focus_03     = "Malware Analysis"
+Focus_04     = "Exploit Development"
+
+[TRAINING_PROTOCOL]
+Environment  = ["THM Labs (Active)", "PWK Labs", "HackTheBox (Active)", "VulnHub"]
+Routine      = "Daily Learning && Writeup Analysis"
+Logs         = "Check /notes directory"
+
+```
 
 ---
 
