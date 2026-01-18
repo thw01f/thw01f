@@ -17,7 +17,6 @@
 
 </div>
 
-
 ## About me
 
 * 🎯 Goal: Become a professional penetration tester and complete OSCP.
@@ -41,7 +40,7 @@
   </a>
 </div>
 
-
+---
 
 <div align="center">
   <a href="https://tryhackme.com/p/w01f">
@@ -85,7 +84,7 @@ class Profile:
 
 ```
 
----
+
 
 ### <div>  Mission Log </div>
 
@@ -97,12 +96,12 @@ class Profile:
 
 ---
 
-### My Contribution Graph
+## My Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
+<img alt="Contribution Graph" src="https://raw.githubusercontent.com/thw01f/thw01f/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
