@@ -23,6 +23,11 @@
 
 ## 💀 `cat /etc/About_me.conf`
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thw01f/github-stats-terminal-style/master/github_stats.svg" alt="Terminal Stats" />
+</div>
+
 ```ini
 [MISSION_OBJECTIVE]
 Target       = "Professional Penetration Tester"
@@ -123,6 +128,4 @@ class Profile:
 </picture>
 
 ---
-<div >
-  <img src="https://raw.githubusercontent.com/thw01f/github-stats-terminal-style/master/github_stats.svg" alt="Terminal Stats" />
-</div>
+
